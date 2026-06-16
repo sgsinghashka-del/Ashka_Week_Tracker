@@ -1,0 +1,45 @@
+Habit Tracker Dashboard – Google Sheets
+
+View the live Habit Tracker dashboard here: https://docs.google.com/spreadsheets/d/1JrSYsC-FdZR2N8Sf2B9goOef-FE13b3ndX7-jCQnVb0/edit?usp=sharing
+
+
+This project is a structured Habit Tracker Dashboard built in Google Sheets, designed to help users plan, track, and review daily habits with clarity and consistency. The tracker combines manual inputs, automated calculations, and visual indicators to provide a clear view of habit completion and progress over time.
+
+Unlike simple checklists, this tracker is organized to reflect real-world planning workflows, focusing on usability, clean layout, and logical data flow.
+ 
+🔧 Tools & Technologies
+Google Sheets
+Formulas (COUNTIF, SPARKLINE)
+Checkbox automation
+Progress visualization
+
+
+⚙️ Key Functional Components
+
+Daily habit tracking using checkboxes
+Automatic progress calculation
+Weekly progress visualization with SPARKLINE charts
+Simple and clean interface
+Easy to customize and add new habits
+
+
+🎯 Purpose of the Project
+
+The goal of this project is to demonstrate:
+Logical sheet structuring
+Practical use of Excel / Google Sheets formulas
+Attention to UI clarity and user experience
+Ability to build functional, real-life tracking tools, not just static spreadsheets
+
+
+📂 File Information
+
+Format: Excel / Google Sheets
+Designed to scale for multiple habits and time periods
+
+
+📝 Notes
+
+Built with a neutral, professional color theme
+Focused on simplicity, consistency, and usability
+Suitable for productivity tracking and planning use cases
