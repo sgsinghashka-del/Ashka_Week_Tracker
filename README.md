@@ -57,9 +57,3 @@ The goal of this project is to demonstrate practical spreadsheet thinking, good 
 - Suitable for personal productivity, routines, and self-improvement tracking
 
 ---
-
-If you want, I can also help convert this project into a more advanced version with:
-- a mobile-friendly dashboard,
-- a custom color theme,
-- automated charts and KPI cards,
-- or a web-based version using HTML/CSS/JavaScript.
